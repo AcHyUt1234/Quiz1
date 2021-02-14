@@ -1,8 +1,6 @@
+## T/F Quizbox
 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
-
-## Learnings
+**Learnings:**
 
 - Modularising the entire code into separate classes.
 - Dart classes and objects.
@@ -11,6 +9,12 @@
 - Private and public modifiers in Dart.
 - Use of Dart lists.
 - The difference between var, const and final.
+
+**Sample Output Snippet:**
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
+
+### Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 ```
 Question('Some cats are actually allergic to humans', true),
